@@ -1,0 +1,1 @@
+# Init para la app users. Permite que Python la reconozca como paquete.

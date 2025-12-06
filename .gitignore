@@ -1,0 +1,35 @@
+# Django
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+*.log
+*.pot
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# Migrations
+*/migrations/__pycache__/
+*/migrations/*.pyc
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Others
+*.swp
+*.swo
+
+# Exclude database
+/db.sqlite3
